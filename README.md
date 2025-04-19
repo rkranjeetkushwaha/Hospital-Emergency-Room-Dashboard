@@ -34,6 +34,9 @@ An interactive and fully functional Excel dashboard designed to analyze and visu
 
 <li>Enhancement: Add traffic light icons or colored bars to visually represent satisfaction levels.</li>
 
+# Dashboard
+<img width="620" alt="Hospital Emergency Room Data Dashboard" src="https://github.com/user-attachments/assets/f6fae29f-1dfd-4b9e-a7e8-c687073e73d9" />
+
 ## 🛠️ Process
 <ol type="1">
 <li>Data Collection & Cleaning</li>
@@ -56,7 +59,4 @@ Tested with sample data to ensure accuracy of metrics and responsiveness of the 
 
 ## ✅ Final Conclusion
 This Excel-based Hospital Emergency Room Dashboard provides a powerful and accessible tool for monitoring and analyzing emergency care performance. It simplifies complex healthcare data into meaningful insights, enabling hospitals to make data-driven decisions, improve patient flow, and enhance service quality. The project showcases how Excel can be leveraged as a cost-effective solution for healthcare analytics, even without advanced BI tools.
-
-# Dashboard
-<img width="620" alt="Hospital Emergency Room Data Dashboard" src="https://github.com/user-attachments/assets/f6fae29f-1dfd-4b9e-a7e8-c687073e73d9" />
 
