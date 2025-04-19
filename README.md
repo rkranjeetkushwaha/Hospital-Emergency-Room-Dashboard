@@ -35,23 +35,24 @@ An interactive and fully functional Excel dashboard designed to analyze and visu
 <li>Enhancement: Add traffic light icons or colored bars to visually represent satisfaction levels.</li>
 
 ## 🛠️ Process
-<ol type="1">Data Collection & Cleaning</ol>
+<ol type="1">
+<li>Data Collection & Cleaning</li>
 Imported raw emergency room data into Excel and used Power Query to clean, format, and structure the dataset for analysis.
 
-<ol type="2">Data Modeling</ol>
+<li>Data Modeling</li>
 Organized data into structured tables for easier reference and built relationships between patient demographics, visit details, and treatment outcomes.
 
-<ol type="3">KPI Identification</ol>
+<li>KPI Identification</li>
 Identified key performance indicators such as average wait time, number of patients served, admission rates, and critical cases handled.
 
-<ol type="4">Dashboard Design</ol>
+<li>Dashboard Design</li>
 Designed a clean and intuitive dashboard layout using pivot tables, charts, slicers, and conditional formatting to enhance usability and data visibility.
 
-<ol type="5">Interactivity & Automation</ol>
+<li>Interactivity & Automation</li>
 Added slicers and drop-down filters for real-time data interaction. Used formulas and named ranges to automate calculations and make the dashboard dynamic.
 
-<ol type="6">Testing & Optimization</ol>
-Tested with sample data to ensure accuracy of metrics and responsiveness of the dashboard. Optimized visuals for clarity and performance.
+<li>Testing & Optimization</li>
+Tested with sample data to ensure accuracy of metrics and responsiveness of the dashboard. Optimized visuals for clarity and performance.</ol>
 
 ## ✅ Final Conclusion
 This Excel-based Hospital Emergency Room Dashboard provides a powerful and accessible tool for monitoring and analyzing emergency care performance. It simplifies complex healthcare data into meaningful insights, enabling hospitals to make data-driven decisions, improve patient flow, and enhance service quality. The project showcases how Excel can be leveraged as a cost-effective solution for healthcare analytics, even without advanced BI tools.
