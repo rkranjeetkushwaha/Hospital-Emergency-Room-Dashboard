@@ -8,28 +8,28 @@ An interactive and fully functional Excel dashboard designed to analyze and visu
 ## Key Performance Indicators (KPIs)
 ### 🧍 Total Number of Patients
 
-<li>Description: Total count of patients who visited the emergency room within the selected time period.
+<li>Description: Total count of patients who visited the emergency room within the selected time period.</li>
 
-Purpose: Tracks overall patient volume to understand workload and resource demand.
+<li>Purpose: Tracks overall patient volume to understand workload and resource demand.</li>
 
-Formula Used: =COUNTA(Patient_ID) or pivot table count of unique patient records.</li>
+<li>Formula Used: =COUNTA(Patient_ID) or pivot table count of unique patient records.</li>
 
 ### ⏱️ Average Wait Time
 
-<li>Description: The average time patients wait before receiving treatment.
+<li>Description: The average time patients wait before receiving treatment.</li>
 
-Purpose: Measures efficiency and helps identify bottlenecks in patient flow.
+<li>Purpose: Measures efficiency and helps identify bottlenecks in patient flow.</li>
 
-Formula Used: =AVERAGE(Wait_Time) (customizable for filters such as department or date).
+<li>Formula Used: =AVERAGE(Wait_Time) (customizable for filters such as department or date).</li>
 
-Additional Tip: Conditional formatting can highlight unusually high wait times.</li>
+<li>Additional Tip: Conditional formatting can highlight unusually high wait times.</li>
 
 ### 😊 Patient Satisfaction Score
 
-<li>Description: Average satisfaction score collected from post-visit surveys (typically on a scale of 1–10).
+<li>Description: Average satisfaction score collected from post-visit surveys (typically on a scale of 1–10).</li>
 
-Purpose: Provides insight into patient experience and quality of care.
+<li>Purpose: Provides insight into patient experience and quality of care.</li>
 
-Formula Used: =AVERAGE(Satisfaction_Score)
+<li>Formula Used: =AVERAGE(Satisfaction_Score)</li>
 
-Enhancement: Add traffic light icons or colored bars to visually represent satisfaction levels.</li>
+<li>Enhancement: Add traffic light icons or colored bars to visually represent satisfaction levels.</li>
